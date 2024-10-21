@@ -1,4 +1,4 @@
-# To Do List Application
+#To-Do List Application: Create a text-based to-do list where users can add, remove, and view tasks.
 
 # An empty list to store task
 to_do_list = []
