@@ -2,7 +2,9 @@ Here are some beginner to intermediate-level Python projects to help you regain 
 1. Basic Projects:
 
     Calculator App: Build a simple command-line calculator for basic arithmetic (addition, subtraction, multiplication, and division).
+
     To-Do List Application: Create a text-based to-do list where users can add, remove, and view tasks.
+    
     Guess the Number: A game where the user has to guess a randomly generated number within a specific range.
     Unit Converter: Build a program that converts units (e.g., Celsius to Fahrenheit, kilometers to miles).
 
