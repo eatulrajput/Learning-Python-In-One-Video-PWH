@@ -6,6 +6,7 @@ Here are some beginner to intermediate-level Python projects to help you regain 
     To-Do List Application: Create a text-based to-do list where users can add, remove, and view tasks.
     
     Guess the Number: A game where the user has to guess a randomly generated number within a specific range.
+    
     Unit Converter: Build a program that converts units (e.g., Celsius to Fahrenheit, kilometers to miles).
 
 2. File Handling Projects:
