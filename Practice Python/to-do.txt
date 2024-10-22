@@ -12,7 +12,9 @@ Here are some beginner to intermediate-level Python projects to help you regain 
 2. File Handling Projects:
 
     File Organizer: Create a script to automatically sort and organize files in a folder based on their extensions (e.g., images, documents).
+    
     Password Generator: Build a password generator that creates strong random passwords.
+    
     Log Parser: Write a program to read log files (like .txt or .csv) and extract meaningful information (e.g., errors, specific user data).
 
 3. Web Scraping Projects:
